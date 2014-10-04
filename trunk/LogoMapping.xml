@@ -33,7 +33,7 @@
       <File>RTE ONE HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="RTÉ2">
+      <Item Name="RTÉ Two">
         <Provider>Saorview</Provider>
       </Item>
       <File>RTE2 HD.png</File>
