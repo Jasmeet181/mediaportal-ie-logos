@@ -45,6 +45,12 @@
       <File>RTE Junior.png</File>
     </Channel>
     <Channel>
+      <Item Name="Saorview Information">
+        <Provider>Saorview</Provider>
+      </Item>
+      <File>Saorview.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TG4">
         <Provider>Saorview</Provider>
       </Item>
