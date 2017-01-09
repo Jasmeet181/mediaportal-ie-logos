@@ -16,6 +16,9 @@
     </Channel>
     <Channel>
       <Item Name="Oireachtas TV">
+        <Provider>Full Name (IE)</Provider>
+      </Item>
+      <Item Name="Tithe an Oireachtais">
         <Provider>Saorview</Provider>
       </Item>
       <File>Oireachtas TV.png</File>
