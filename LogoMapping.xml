@@ -3,18 +3,6 @@
   <!-- ******************************************************************** -->
   <TV>
     <Channel>
-      <Item Name="3e">
-        <Provider>Saorview</Provider>
-      </Item>
-      <File>3e.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Be3">
-        <Provider>Saorview</Provider>
-      </Item>
-      <File>Be3.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Oireachtas TV">
         <Provider>Full Name (IE)</Provider>
       </Item>
@@ -66,14 +54,32 @@
       <File>TG4.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV3">
+      <Item Name="Virgin One">
         <Provider>Saorview</Provider>
       </Item>
-      <File>TV3.png</File>
+      <File>Virgin Media One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Virgin Three">
+        <Provider>Saorview</Provider>
+      </Item>
+      <File>Virgin Media Three.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Virgin Two">
+        <Provider>Saorview</Provider>
+      </Item>
+      <File>Virgin Media Two.png</File>
     </Channel>
   </TV>
   <!-- ******************************************************************** -->
   <Radio>
+    <Channel>
+      <Item Name="Radio Maria Ireland">
+        <Provider>Saorview</Provider>
+      </Item>
+      <File>Radio Maria.png</File>
+    </Channel>
     <Channel>
       <Item Name="RTÉ 2FM">
         <Provider>Saorview</Provider>
