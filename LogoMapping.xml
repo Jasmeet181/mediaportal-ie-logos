@@ -54,19 +54,19 @@
       <File>TG4.png</File>
     </Channel>
     <Channel>
-      <Item Name="Virgin One">
+      <Item Name="Virgin Media 1">
         <Provider>Saorview</Provider>
       </Item>
       <File>Virgin Media One.png</File>
     </Channel>
     <Channel>
-      <Item Name="Virgin Three">
+      <Item Name="Virgin Media 3">
         <Provider>Saorview</Provider>
       </Item>
       <File>Virgin Media Three.png</File>
     </Channel>
     <Channel>
-      <Item Name="Virgin Two">
+      <Item Name="Virgin Media 2">
         <Provider>Saorview</Provider>
       </Item>
       <File>Virgin Media Two.png</File>
