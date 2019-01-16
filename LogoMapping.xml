@@ -36,6 +36,12 @@
 			<File>RTE2 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTÉ2 +1">
+				<Provider>Saorview</Provider>
+			</Item>
+			<File>RTE2 Plus 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="RTÉ Junior">
 				<Provider>Saorview</Provider>
 			</Item>
