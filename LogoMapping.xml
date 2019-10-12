@@ -3,6 +3,12 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
+			<Item Name="2RN">
+				<Provider>Saorview</Provider>
+			</Item>
+			<File>2RN.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Oireachtas TV">
 				<Provider>Full Name (IE)</Provider>
 			</Item>
