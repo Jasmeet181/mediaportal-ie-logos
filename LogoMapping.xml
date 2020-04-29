@@ -32,7 +32,7 @@
 			<Item Name="RTÉ One">
 				<Provider>Saorview</Provider>
 			</Item>
-			<File>RTE ONE HD.png</File>
+			<File>RTE One HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTÉ2 HD" />
@@ -129,7 +129,7 @@
 			<Item Name="RTÉ Lyric">
 				<Provider>Saorview</Provider>
 			</Item>
-			<File>RTE Lyric fm.png</File>
+			<File>RTE Lyric FM.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTÉ Pulse">
